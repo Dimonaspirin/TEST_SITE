@@ -11,8 +11,7 @@
 		p { margin-bottom: 0.25cm; line-height: 115%; background: transparent }
 	</style>
 </head>
-<body lang="ru-RU" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0cm; line-height: 100%">
-Стартовая страница<br/>
-<br/>
+<body
+Стартовая страница
 </body>
 </html>
