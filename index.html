@@ -14,11 +14,5 @@
 <body lang="ru-RU" link="#000080" vlink="#800000" dir="ltr"><p style="margin-bottom: 0cm; line-height: 100%">
 Стартовая страница<br/>
 <br/>
-Ссылка на
-триподные турникеты</p>
-<p style="margin-bottom: 0cm; line-height: 100%">Ссылка на
-створчатые турникеты</p>
-<p style="margin-bottom: 0cm; line-height: 100%">Ссылка на
-полнороствые турникеты</p>
 </body>
 </html>
